@@ -3,6 +3,11 @@
     "displayName": "Aperture",
     "description": "Color theme for VSCode to help you focus",
     "version": "0.0.1",
+    "publisher": "pveyes",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pveyes/aperture.git"
+    },
     "engines": {
         "vscode": "^1.33.0"
     },
