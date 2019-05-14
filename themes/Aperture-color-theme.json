@@ -104,7 +104,8 @@
 				"storage.modifier",
 				"entity.name.tag.reference",
 				"entity.other.attribute-name",
-				"entity.other.attribute-name punctuation"
+				"entity.other.attribute-name punctuation",
+				"keyword.control.at-rule.media punctuation"
 			],
 			"settings": {
 				"foreground": "#DBB9F1"
@@ -116,7 +117,8 @@
 				"support.type.object.module",
 				"support.class.builtin",
 				"support.class.console",
-				"support.constant.math"
+				"support.constant.math",
+				"support.constant.json"
 			],
 			"settings": {
 				"foreground": "#A67DB8",

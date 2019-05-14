@@ -1,0 +1,21 @@
+html, body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.btn.primary:not(.disabled) {
+  color: var(--light-primary);
+  background-color: var(--accent-primary);
+  font-size: 16rem;
+}
+
+@media (min-width: 600px) {
+  .container {
+    padding: 20px;
+  }
+}
