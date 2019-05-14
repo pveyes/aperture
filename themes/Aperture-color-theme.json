@@ -118,7 +118,8 @@
 				"support.class.builtin",
 				"support.class.console",
 				"support.constant.math",
-				"support.constant.json"
+				"support.constant.json",
+				"support.variable"
 			],
 			"settings": {
 				"foreground": "#A67DB8",
