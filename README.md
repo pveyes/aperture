@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="300" src="media/logo.svg" alt="Aperture Logo" />
+  <img width="300" alt="Aperture Logo" src="https://user-images.githubusercontent.com/1614415/57772114-d6fb9380-773e-11e9-92e1-b74d4dd0f3ff.png" />
 </div>
 
 > Color theme for VSCode to help you focus
