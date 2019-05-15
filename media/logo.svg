@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="219px" viewBox="0 0 300 219" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(100.000000, 28.000000)">
+            <circle id="Oval" stroke="#575757" fill="#F2F2F2" cx="50" cy="50" r="50"></circle>
+            <path d="M87.210779,17.0000039 C94.929917,25.5623591 99.7191306,36.8280112 99.9943476,49.209558 L100,51.1761636 C99.986518,51.9949644 99.9532962,52.8089532 99.9007909,53.6176728 L66,68 L87.2107755,17 Z" id="Combined-Shape" stroke="#474747" stroke-width="3" fill="#D05353"></path>
+            <path d="M100,53 C99.068794,67.5054505 92.1253803,80.3498177 81.6696705,89 L81.3184433,89 L48,75.0387669 L100,53 Z" id="Combined-Shape" stroke="#474747" stroke-width="3" fill="#E75A7C"></path>
+            <path d="M43.3290184,99.5947102 L30,68 L81,88.8372093 L81,89.1185796 C72.4400129,95.9273282 61.5743339,100 49.75,100 C47.5744228,100 45.4312989,99.8621283 43.3290184,99.5947102 Z" id="Combined-Shape" stroke="#474747" stroke-width="3" fill="#DBB9F1"></path>
+            <path d="M44,100 C30.574782,98.2478032 18.8317818,91.0193515 11,80.584508 L11,80.4990287 L23.6235452,50 L44,100 Z" id="Combined-Shape" stroke="#474747" stroke-width="3" fill="#A67DB8"></path>
+            <path d="M10.1011677,80 C3.76282581,71.6009815 0,61.1185802 0,49.75 C0,48.113861 0.0779367108,46.4960767 0.230270925,44.9002159 L30,32 L10.1652893,80 L10.1011677,80 Z" id="Combined-Shape" stroke="#474747" stroke-width="3" fill="#82AAFF"></path>
+            <path d="M-7.9658502e-15,45 C1.26685154,31.8570239 7.61632254,20.1964912 17.0630856,12 L17.1006609,12 L48,24.8259781 L-7.10542736e-15,45 Z" id="Combined-Shape" stroke="#474747" stroke-width="3" fill="#C3E88D"></path>
+            <path d="M17,12.0758507 C25.035897,5.06973108 35.3414819,0.623538283 46.6602503,7.07694275e-08 L52.1644919,7.07694766e-08 L65,32.0000001 L17,12.1081485 L17,12.0758507 Z" id="Combined-Shape" stroke="#474747" stroke-width="3" fill="#F8DDA4"></path>
+            <path d="M53,6.17561557e-15 C66.4918206,0.750934392 78.5392568,7.00775573 87,16.5952837 L87,16.6993687 L72.9439778,50 L53,7.10542736e-15 Z" id="Combined-Shape" stroke="#474747" stroke-width="3" fill="#F9A03F"></path>
+        </g>
+        <text id="Aperture" font-family="Futura-Medium, Futura" font-size="37" font-weight="400" fill="#242428">
+            <tspan x="76" y="184">Aperture</tspan>
+        </text>
+    </g>
+</svg>
