@@ -27,14 +27,15 @@
 	},
 	"tokenColors": [
 		{
-			"name": "Variables",
+			"name": "Variables and property access",
 			"scope": [
 				"variable",
 				"meta.block variable.other",
 				"string constant.other.placeholder",
 				"support.variable.object.node",
 				"entity.other.attribute-name.class",
-				"source.css variable.interpolation variable"
+				"source.css variable.interpolation variable",
+				"punctuation.accessor"
 			],
 			"settings": {
 				"foreground": "#F2F7F2"
