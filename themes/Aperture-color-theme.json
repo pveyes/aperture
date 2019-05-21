@@ -132,6 +132,7 @@
 				"support.type.object.module",
 				"support.class.builtin",
 				"support.class.console",
+				"support.class.node",
 				"support.constant.math",
 				"support.constant.json",
 				"support.variable",
@@ -195,7 +196,7 @@
 			}
 		},
 		{
-			"name": "Object & JSON key",
+			"name": "Object, JSON key, and HTML attributes",
 			"scope": [
 				"meta.object-literal.key",
 				"meta.object-literal.key string",
@@ -203,6 +204,8 @@
 				"meta.type.tuple punctuation.definition.string",
 				"meta.type.tuple string",
 				"meta.tag.attributes entity.other.attribute-name",
+				"meta.tag",
+				"meta.attribute entity.other.attribute-name",
 				"variable.object.property",
 				"meta.embedded.block.frontmatter entity.name.tag.yaml",
 				"support.type.property-name"
@@ -223,8 +226,18 @@
 			}
 		},
 		{
+			"name": "Markdown content",
+			"scope": [
+				"text.html.markdown punctuation"
+			],
+			"settings": {
+				"foreground": "#F2F7F2",
+			}
+		},
+		{
 			"name": "Markdown - Heading",
 			"scope": [
+				"punctuation.definition.heading",
 				"markup.heading punctuation",
 				"markup.heading entity.name"
 			],
@@ -236,10 +249,10 @@
 			"name": "Markdown - Bold",
 			"scope": [
 				"markup.bold",
-				"markup.bold punctuation",
+				"punctuation.definition.bold",
 			],
 			"settings": {
-				"foreground": "#F2F7F2",
+				"foreground": "#DBB9F1",
 				"fontStyle": "bold",
 			}
 		},
@@ -247,10 +260,21 @@
 			"name": "Markdown - Italic",
 			"scope": [
 				"markup.italic",
-				"markup.italic punctuation"
+				"punctuation.definition.italic"
 			],
 			"settings": {
+				"foreground": "#DBB9F1",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markdown - Code",
+			"scope": [
+				"markup.inline.raw",
+				"punctuation.definition.raw"
+			],
+			"settings": {
+				"foreground": "#DBB9F1"
 			}
 		}
 	]
