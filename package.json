@@ -2,7 +2,7 @@
     "name": "aperture",
     "displayName": "Aperture",
     "description": "Color theme for VSCode to help you focus",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "publisher": "pveyes",
     "icon": "aperture.png",
     "repository": {
