@@ -80,11 +80,11 @@
 				"constant.character",
 				"constant.escape",
 				"keyword.other.unit",
-				"keyword.other",
 				"support.type.primitive",
 				"support.type.builtin",
 				"source.css variable",
 				"constant.character.entity punctuation",
+				"storage.type.core.rust",
 			],
 			"settings": {
 				"foreground": "#F9A03F"
@@ -120,7 +120,9 @@
 				"entity.other.attribute-name",
 				"entity.other.attribute-name punctuation",
 				"keyword.control.at-rule.media punctuation",
-				"meta.assertion"
+				"meta.assertion",
+				"keyword.other",
+				"entity.name.lifetime.rust",
 			],
 			"settings": {
 				"foreground": "#DBB9F1"
@@ -136,7 +138,7 @@
 				"support.constant.math",
 				"support.constant.json",
 				"support.variable",
-				"support.function"
+				"support.function.builtin",
 			],
 			"settings": {
 				"foreground": "#A67DB8",
@@ -154,7 +156,8 @@
 				"markup.changed.git_gutter",
 				"entity.other.inherited-class",
 				"support.type.sys-types",
-				"variable.language"
+				"variable.language",
+				"storage.class",
 			],
 			"settings": {
 				"foreground": "#E75A7C"
@@ -167,7 +170,7 @@
 				"meta.function-call",
 				"variable.function",
 				"keyword.other.special-method",
-				"meta.function-call support.function"
+				"support.function"
 			],
 			"settings": {
 				"foreground": "#9BE2FF"
