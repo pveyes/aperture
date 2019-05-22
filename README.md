@@ -27,7 +27,7 @@ All colors (and their name) are retrieved from [Coolors](https://coolors.co)
 
 ## Supported Languages
 
- - Web (HTML, CSS, JavaScript)
+ - Web (HTML, CSS, JavaScript, JSON)
  - JavaScript+ (JSX, TypeScript)
  - Golang
  - Rust

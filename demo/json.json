@@ -1,0 +1,20 @@
+{
+  "name": "aperture",
+  "displayName": "Aperture",
+  "description": "Color theme for VSCode to help you focus",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pveyes/aperture.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aperture",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aperture-color-theme.json"
+      }
+    ]
+  },
+  "boolean": false,
+  "number": 124123
+}

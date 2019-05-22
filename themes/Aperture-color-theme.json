@@ -35,7 +35,9 @@
 				"support.variable.object.node",
 				"entity.other.attribute-name.class",
 				"source.css variable.interpolation variable",
-				"punctuation.accessor"
+				"punctuation.accessor",
+				"punctuation.definition.dictionary",
+				"punctuation.definition.array"
 			],
 			"settings": {
 				"foreground": "#F2F7F2"
