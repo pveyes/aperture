@@ -166,7 +166,8 @@
 				"entity.name.function",
 				"meta.function-call",
 				"variable.function",
-				"keyword.other.special-method"
+				"keyword.other.special-method",
+				"meta.function-call support.function"
 			],
 			"settings": {
 				"foreground": "#9BE2FF"
