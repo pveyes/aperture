@@ -1,15 +1,17 @@
 {
-	"name": "Aperture",
+	"name": "Large Aperture",
 	"type": "dark",
 	"colors": {
+		"foreground": "F2F7F2",
 		"widget.shadow": "#141418",
 		"dropdown.background": "#141418",
 		"panel.background": "#141418",
 		"editor.background": "#141418",
-		"editor.foreground": "#eeffff",
+		"editor.foreground": "#F2F7F2",
 		"activityBarBadge.background": "#007acc",
 		"sideBar.background": "#141418",
 		"sideBar.border": "#202024",
+		"sideBar.foreground": "F2F7F2",
 		"activityBar.background": "#141418",
 		"input.background": "#242428",
 		"input.border": "#343438",
@@ -19,6 +21,7 @@
 		"tab.activeBackground": "#141418",
 		"tab.inactiveBackground": "#242428",
 		"tab.inactiveForeground": "#696969",
+		"list.focusBackground": "#DBB9F1",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"titleBar.activeBackground": "#141418",
 		"editorGutter.addedBackground": "#C3E88D",
@@ -86,7 +89,7 @@
 				"support.type.builtin",
 				"source.css variable",
 				"constant.character.entity punctuation",
-				"storage.type.core.rust",
+				"storage.type.core.rust"
 			],
 			"settings": {
 				"foreground": "#F9A03F"
@@ -124,7 +127,7 @@
 				"keyword.control.at-rule.media punctuation",
 				"meta.assertion",
 				"keyword.other",
-				"entity.name.lifetime.rust",
+				"entity.name.lifetime.rust"
 			],
 			"settings": {
 				"foreground": "#DBB9F1"
@@ -140,10 +143,10 @@
 				"support.constant.math",
 				"support.constant.json",
 				"support.variable",
-				"support.function.builtin",
+				"support.function.builtin"
 			],
 			"settings": {
-				"foreground": "#A67DB8",
+				"foreground": "#A67DB8"
 			}
 		},
 		{
@@ -159,7 +162,7 @@
 				"entity.other.inherited-class",
 				"support.type.sys-types",
 				"variable.language",
-				"storage.class",
+				"storage.class"
 			],
 			"settings": {
 				"foreground": "#E75A7C"
@@ -217,7 +220,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#F8DDA4",
+				"foreground": "#F8DDA4"
 			}
 		},
 		{
@@ -237,7 +240,7 @@
 				"text.html.markdown punctuation"
 			],
 			"settings": {
-				"foreground": "#F2F7F2",
+				"foreground": "#F2F7F2"
 			}
 		},
 		{
@@ -248,18 +251,18 @@
 				"markup.heading entity.name"
 			],
 			"settings": {
-				"foreground": "#E75A7C",
+				"foreground": "#E75A7C"
 			}
 		},
 		{
 			"name": "Markdown - Bold",
 			"scope": [
 				"markup.bold",
-				"punctuation.definition.bold",
+				"punctuation.definition.bold"
 			],
 			"settings": {
 				"foreground": "#DBB9F1",
-				"fontStyle": "bold",
+				"fontStyle": "bold"
 			}
 		},
 		{

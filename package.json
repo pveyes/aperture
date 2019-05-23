@@ -18,9 +18,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Aperture",
+                "label": "Large Aperture",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Aperture-color-theme.json"
+                "path": "./themes/Large-Aperture.json"
+            },
+            {
+                "label": "Small Aperture",
+                "uiTheme": "vs",
+                "path": "./themes/Small-Aperture.json"
             }
         ]
     }

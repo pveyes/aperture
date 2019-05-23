@@ -2,7 +2,7 @@
 
 > With a blockquote for added dramatic effect
 
-And some formatting like **bold** or **italic**
+And some formatting like **bold** or *italic*
 
 ## Image and Links
 
