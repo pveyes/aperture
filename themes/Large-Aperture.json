@@ -2,31 +2,55 @@
 	"name": "Large Aperture",
 	"type": "dark",
 	"colors": {
-		"foreground": "F2F7F2",
+		// base
+		"focusBorder": "#141418",
+		"foreground": "#F2F7F2",
 		"widget.shadow": "#141418",
+		"selection.background": "#141418",
+		"descriptionForeground": "#F2F7F2",
+		// dropdown control
 		"dropdown.background": "#141418",
-		"panel.background": "#141418",
-		"editor.background": "#141418",
-		"editor.foreground": "#F2F7F2",
-		"activityBarBadge.background": "#007acc",
-		"sideBar.background": "#141418",
-		"sideBar.border": "#202024",
-		"sideBar.foreground": "F2F7F2",
-		"activityBar.background": "#141418",
+		// input control
 		"input.background": "#242428",
 		"input.border": "#343438",
 		"input.foreground": "#F2F7F2",
+		// badge
+		"badge.foreground": "#F2F7F2",
+		"badge.background": "#0091cd",
+		// list and trees
+		"list.activeSelectionBackground": "#0091cdbb",
+		"list.focusBackground": "#E75A7C55",
+		"list.hoverBackground": "#242428",
+		// activity bar
+		"activityBar.background": "#141418",
+		"activityBar.foreground": "#F2F7F2",
+		"activityBar.inactiveForeground": "#575757",
+		"activityBarBadge.background": "#0091cd",
+		// sidebar
+		"sideBar.background": "#141418",
+		"sideBar.border": "#202024",
+		"sideBar.foreground": "#F2F7F2",
+		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBarSectionHeader.background": "#242428",
-		"statusBar.background": "#141418",
+		// editor group and tabs
 		"tab.activeBackground": "#141418",
 		"tab.inactiveBackground": "#242428",
 		"tab.inactiveForeground": "#696969",
-		"list.focusBackground": "#DBB9F1",
-		"sideBarTitle.foreground": "#bbbbbb",
-		"titleBar.activeBackground": "#141418",
+		// editor colors
+		"editor.background": "#141418",
+		"editor.foreground": "#F2F7F2",
+		"editorLineNumber.foreground": "#575757",
+		"editorLineNumber.activeForeground": "#F2F7F2",
 		"editorGutter.addedBackground": "#C3E88D",
 		"editorGutter.deletedBackground": "#E75A7C",
-		"editorGutter.modifiedBackground": "#F8DDA4"
+		"editorGutter.modifiedBackground": "#F8DDA4",
+		// panel colors
+		"panel.background": "#141418",
+		// status bar
+		"statusBar.background": "#141418",
+		"statusBar.foreground": "#f2f7f2",
+		// title bar
+		"titleBar.activeBackground": "#141418",
 	},
 	"tokenColors": [
 		{

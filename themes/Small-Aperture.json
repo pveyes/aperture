@@ -2,31 +2,57 @@
 	"name": "Small Aperture",
 	"type": "light",
 	"colors": {
+		// base
+		"focusBorder": "#ebebe7",
 		"foreground": "#3d383d",
 		"widget.shadow": "#ebebe7",
+		"selection.background": "#ebebe7",
+		"descriptionForeground": "#3d383d",
+		// dropdown control
 		"dropdown.background": "#ebebe7",
-		"panel.background": "#ebebe7",
-		"editor.background": "#FBFBF7",
-		"editor.foreground": "#3d383d",
-		"activityBarBadge.background": "#ff8533",
-		"sideBar.background": "#ebebe7",
-		"sideBar.border": "#dfdfdb",
-		"sideBar.foreground": "#0d080d",
-		"activityBar.background": "#ebebe7",
-		"input.background": "#dbdbd7",
-		"input.border": "#cbcbc7",
-		"input.foreground": "#0d080d",
-		"sideBarSectionHeader.background": "#dbdbd7",
-		"statusBar.background": "#ebebe7",
-		"tab.activeBackground": "#ebebe7",
-		"tab.inactiveBackground": "#dbdbd7",
+		// input control
+		"input.background": "#ebebe7",
+		"input.border": "#343438",
+		"input.foreground": "#3d383d",
+		// badge
+		"badge.foreground": "#f2f7f2",
+		"badge.background": "#0091cd",
+		// list and trees
+		"list.foreground": "#38383d",
+		"list.activeSelectionBackground": "#9BE2FF",
+		"list.activeSelectionForeground": "#38383d",
+		"list.focusBackground": "#9BE2FF66",
+		"list.hoverBackground": "#ebebeb",
+		// activity bar
+		"activityBar.background": "#FBFBFB",
+		"activityBar.foreground": "#5d585d",
+		"activityBar.inactiveForeground": "#a8a8a8",
+		"activityBarBadge.background": "#0091cd",
+		// sidebar
+		"sideBar.background": "#FBFBFB",
+		"sideBar.border": "#e0e0e7",
+		"sideBar.foreground": "#3d383d",
+		"sideBarTitle.foreground": "#38383d",
+		"sideBarSectionHeader.background": "#ebebeb",
+		// editor group and tabs
+		"tab.activeBackground": "#FBFBFB",
+		"tab.inactiveBackground": "#EBEBEB",
 		"tab.inactiveForeground": "#696969",
-		"list.focusBackground": "#DBB9F1",
-		"sideBarTitle.foreground": "#bbbbbb",
-		"titleBar.activeBackground": "#ebebe7",
+		// editor colors
+		"editor.background": "#FBFBFB",
+		"editor.foreground": "#3d383d",
+		"editorLineNumber.foreground": "#575757",
+		"editorLineNumber.activeForeground": "#3d383d",
 		"editorGutter.addedBackground": "#C3E88D",
 		"editorGutter.deletedBackground": "#E75A7C",
-		"editorGutter.modifiedBackground": "#F8DDA4"
+		"editorGutter.modifiedBackground": "#F8DDA4",
+		// panel colors
+		"panel.background": "#ebebe7",
+		// status bar
+		"statusBar.background": "#ebebe7",
+		"statusBar.foreground": "#38383d",
+		// title bar
+		"titleBar.activeBackground": "#ebebe7",
 	},
 	"tokenColors": [
 		{
