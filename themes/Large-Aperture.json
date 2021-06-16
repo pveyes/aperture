@@ -77,7 +77,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#575757",
+				"foreground": "#bdbdbd",
 				"fontStyle": "italic"
 			}
 		},
@@ -97,7 +97,7 @@
 				"meta.brace"
 			],
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#b6bcfb"
 			}
 		},
 		{
