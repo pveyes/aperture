@@ -6,7 +6,6 @@
 		"focusBorder": "#141418",
 		"foreground": "#F2F7F2",
 		"widget.shadow": "#141418",
-		"selection.background": "#141418",
 		"descriptionForeground": "#F2F7F2",
 		// dropdown control
 		"dropdown.background": "#141418",
